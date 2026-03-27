@@ -4,6 +4,7 @@ QuantBack Pro is a professional Streamlit-based research terminal for designing,
 
 Built by Sourish Dey  
 Portfolio: https://sourishdeyportfolio.vercel.app/
+Live App: https://quantback-progit-sourishdey.streamlit.app/
 
 ## Overview
 
